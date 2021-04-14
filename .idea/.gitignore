@@ -2,7 +2,11 @@
 /shelf/
 /workspace.xml
 # Datasource local storage ignored files
+<<<<<<< HEAD
 /../../../../../../:\Program Files (x86)\Intellij Idea\Thony\Marios-pizzabar\.idea/dataSources/
+=======
+/../../../../../../../../../:\Users\gmsst_000\Desktop\KEA\Systemudvikling\Java\Marios-pizzabar\.idea/dataSources/
+>>>>>>> 2d115a3f5346ae8d13f15880f21f21db6a36834c
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
