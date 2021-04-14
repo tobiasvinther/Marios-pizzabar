@@ -9,7 +9,7 @@ public class PizzaList {
 
     public static void main(String[] args) throws FileNotFoundException {
 
-        File pizzaListFile = new File("Resources/pizza.csv"); //create a reference to the csv file
+        File pizzaListFile = new File("./MariosPizzabar/Resources/pizza.csv"); //create a reference to the csv file
 
         Scanner fileScanner = new Scanner(pizzaListFile); // create a scanner with the pizza list file as input
 
